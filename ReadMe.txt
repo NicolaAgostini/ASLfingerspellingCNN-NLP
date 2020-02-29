@@ -9,4 +9,4 @@ Other tips in Final Report appendix "Instructions to execute the project"
 The models are included (file json and h5)
 
 
-If you want to use model with crop images just uncomment the function call in main file
+If you want to use model with crop images just use the methods in cropped.py file
